@@ -1,0 +1,8 @@
+{
+    "message": "hola {name}",
+    "goodbye": "adios",
+    "email": "Nuestro email es: {email}",
+    "terms": "Acepto los {termsURL} del contrato de servicio",
+    "termsLink": "términos y condiciones"
+  }
+  

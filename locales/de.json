@@ -1,0 +1,11 @@
+{
+    "hello": "halo {name}",
+    "goodbye": "Auf wiedersehen",
+    "email": "Unsere email: {email}",
+    "car": "Auto | Autos",
+    "person": "keine Leute | eine Person | {n} Leute",
+    "apple": "keine Äpfel | 1 Apfel | {n} Äpfel",
+    "terms": "Ich akzeptiere die {termsURL} des Servicevertrags",
+    "termsLink": "Geschäftsbedingungen"
+  }
+  
